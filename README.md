@@ -1,10 +1,10 @@
 # CS3 Case Study
 # Forecasting Amazon Stock Price: ARIMA vs. LSTM
 
-**Course:** DS 4002 Section 001  
+**Course:** DS 4002 
 **Date:** Spring 2026  
 **Contributor:** Victoria Markakis  
-**Instructor:** Professor Alonzi
+**Instructor:** Professor Siller
 
 ---
 
